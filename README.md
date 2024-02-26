@@ -6,7 +6,7 @@ PySimplePDF is a basic PDF viewer built in Python for use in potential future pr
 To launch the application, run the app.py file from the command line, your IDE, or numerous other methods.
 
 ------------------------
-Project Requirements (For Version 3.2.1):
+Project Requirements:
   1. Must have the following Third-party Modules installed:
       <br>PyMuPDF (https://pymupdf.readthedocs.io/en/latest/index.html)
       <br>CustomTkinter (https://customtkinter.tomschimansky.com/documentation/)
