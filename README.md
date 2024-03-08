@@ -11,11 +11,11 @@ Project Requirements:
       <br>PyMuPDF (https://pymupdf.readthedocs.io/en/latest/index.html)
       <br>CustomTkinter (https://customtkinter.tomschimansky.com/documentation/)
       <br>Pillow (https://pillow.readthedocs.io/en/stable/)
-  3. Must have access to the following Python Standard Library modules:
+  2. Must have access to the following Python Standard Library modules:
       <br>os
       <br>tkinter
       <br>sys
-  5. Must download the following:
+  3. Must download the following:
       <br>app.py - A Python file that runs the application.
       
 ------------------------
